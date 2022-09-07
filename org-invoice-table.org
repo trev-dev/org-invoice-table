@@ -21,7 +21,7 @@ A package that provides a custom clocktable formatter for calculating invoice ta
 ;;
 ;; Author: Trevor Richards <trev@trevdev.ca>
 ;; Maintainer: Trevor Richards <trev@trevdev.ca>
-;; URL: https://github.com/trev-dev/emacs
+;; URL: https://git.sr.ht/~trevdev/org-invoice-table
 ;; Created: 7nd September, 2022
 ;; Version: 0.1.0
 ;; License: GPL3
