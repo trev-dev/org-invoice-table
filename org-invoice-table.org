@@ -2,7 +2,7 @@
 
 * Org Invoice Table
 :PROPERTIES:
-:header-args: :tangle org-invoice-table.el
+:header-args: :tangle org-invoice-table.el :comments link
 :END:
 
 A package that provides a custom clocktable formatter for calculating invoice tables.
